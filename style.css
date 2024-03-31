@@ -1,0 +1,16 @@
+.cell-decoration {
+  background-color: black;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+.img-pos {
+  padding: 10px;
+  height: 120px;
+  width: 120px;
+}
+body {
+  background-color: cornflowerblue;
+}
